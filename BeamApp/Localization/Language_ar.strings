@@ -1,0 +1,175 @@
+/* 
+  Language_ar.strings
+  Assima Mall
+
+  Created by Mobiiworld on 15/07/21.
+  
+*/
+
+"lstr_visit_as_a_guest" = "المتابعة كضيف";
+"lstr_login" = "تسجيل الدخول";
+"lstr_register" = "تسجيل";
+"lstr_dark" = "Dark";
+"lstr_light" = "Light";
+"lstr_welcome_to_assima_mall" = "حياكم في مجمع العاصمة";
+"lstr_visit_assima_today" = "زورو العاصمة اليوم";
+"lstr_location_map" = "خريطة الموقع";
+"lstr_our_top_shops" = "المحلات في العاصمة";
+"lstr_welcom_back" = "مرحبا بعودتك الآن تعال هنا";
+"lstr_email_or_mobile_num" = "البريد الإلكتروني / رقم الهاتف";
+"lstr_password" = "كلمة السر";
+"lstr_password_must be_8_20_chars" = "كلمة السر بين ٨ - ٢٠ حرف";
+"lstr_sign_in" = "تسجيل الدخول";
+"lstr_signup_email_or_mobile_num" = "تسجيل الدخول البريد الإلكتروني / رقم الهاتف";
+"lstr_sign_in_with_your_google_account" = "تسجيل الدخول بحساب جوجل";
+"lstr_sign_in_with_your_apple_account" = "تسجيل الدخول بحساب أبل";
+"lstr_sign_up" = "التسجيل";
+"lstr_lets_get_you_an_account_and_discover_the_assima_shopping_mall" = "قم بالتسجيل واكتشف العاصمة";
+"lstr_name" = "الاسم";
+"lstr_email_address" = "البريد الالكتروني";
+"lstr_mobile_number" = "رقم التلفون";
+"lstr_search" = "البحث";
+"lstr_home" = "الصفحة الرئسية";
+"lstr_offers" = "العروض";
+"lstr_dine" = "العشاء";
+"lstr_shop" = "محلات";
+"lstr_entertain" = "الترفيه";
+"lstr_health" = "الصحة";
+"lstr_parking" = "موقف سيارات";
+"lstr_restaurants" = "المطاعم والكافيهات";
+"lstr_shops" = "المحلات";
+"lstr_entertainments" = "وسائل الترفيه";
+"lstr_healthwellness" = "الصحة والعافية";
+"lstr_whats_new" = "ما هو الجديد";
+"lstr_events" = "الانشطه";
+"lstr_news" = "News";
+"lstr_faq" = "الأسئلة الشائعة";
+"lstr_contact" = "تواصل معنا";
+"lstr_change_password" = "تغيير كلمة المرور";
+"lstr_editprofile" = "تعديل الملف الشخصي";
+
+"lstr_upcoming_events" = "UPCOMING EVENTS";
+
+"lstr_followus" = "Followus";
+"lstr_available" = "Available";
+"lstr_total" = "Total";
+//=======
+
+"lstr_callus_lable" = "000000000";
+"lstr_parking_lable" = "P1, Grand Parking";
+"lstr_tommy_hillfiger" = "TOMMY HILLFIGER";
+"lstr_description" = "وصف";
+"lstr_description_details" = "Lorem ipsum dolor sit amet, consectetur adipiscing,Lorem ipsum dolor sit amet, consectetur adipiscing";
+"lstr_chat" = "اسألنا";
+"lstr_tommy_hillfiger_bag" = "TOMMY HILLFIGER BAGS";
+"lstr_save" = "حفظ";
+"lstr_follows" = "تابعنا";
+"lstr_level" = "الطابق";
+"lstr_lower_ground_floor" = "Lower Ground Floor";
+
+"lstr_profile" = "البروفايل";
+"lstr_profile_description" = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.";
+"lstr_english" = "ENGLISH";
+"lstr_العربية" = "العربية";
+"lstr_languages_theme" = "Language & Theme";
+"lstr_tommy_hillfiger_bag" = "TOMMY HILLFIGER BAGS";
+"lstr_save" = "SAVE";
+"lstr_follows" = "FOLLOW US";
+"lstr_level" = "الطابق";
+"lstr_lower_ground_floor" = "Lower Ground Floor";
+"lstr_edit_profile" = "تعديل البروفايل";
+"lstr_mobile_no" = "Mobile No.";
+"lstr_email_id" = "Email ID";
+"lstr_nationality" = "Nationality";
+
+"lstr_faqs" = "FAQs";
+"lstr_insertlabel" = "HEALTH";
+"lstr_we_love_to_hear_from_you" = "نحب نسمع منكم";
+"lstr_contact_us" = "اتصل بنا";
+"lstr_full_name" = "الاسم الكامل";
+"lstr_message" = "رسالتك لنا";
+"lstr_write_desc" = "كتابة رسالتك";
+"lstr_submit" = "ارسال";
+
+//=====
+
+"lstr_description_Capitalised" = "وصف";
+"lstr_Interests" = "الإهتمامات";
+"lstr_update" = "تحديث";
+"lstr_interests" = "الإهتمامات";
+
+"lstr_grandparking_title" = "GRAND PARKING";
+"lstr_available" = "Available";
+"lstr_available_value" = "200";
+
+
+"lstr_assima_mall_location" = "موقع مجمع العاصمة";
+
+"lstr_country" = "COUNTRY";
+
+"lstr_terms_conditions" = "Terms & Conditions";
+"lstr_privacy_policy" = "Privacy Policy";
+
+"lstr_forgot_password" = "Forgot Password?";
+
+"lstr_or_contact_us" = "Or Contact Us";
+"lstr_call_us" = "اتصل بنا";
+"lstr_email_us" = "Email Us";
+"lstr_location" = "Location";
+
+"lstr_enter_req_fields" = "Please Enter Required Fields";
+
+"lstr_cancel" = "Cancel";
+"lstr_upload_from_gallery" = "Upload from gallery";
+"lstr_take_a_pic" = "Take a picture";
+
+"lstr_view" = "View";
+"lstr_nodata" = "لاتوجد بيانات";
+"lstr_forgot_password" = "Forgot Password?";
+"lstr_change_password" = "Change Password";
+
+"lstr_current_password" = "Current Password";
+"lstr_new_password" = "New Password";
+"lstr_confirm_password" = "Confirm Password";
+
+"lstr_update_password" = "Update Password";
+
+"lstr_my_following" = "My Following";
+
+"lstr_logout" = "Logout";
+"lstr_are_u_sure_want_to_logout" = "Are you sure you want to logout?";
+"lstr_yes" = "YES";
+"lstr_no" = "NO";
+
+"lstr_news_details" = "NEWS DETAILS";
+"lstr_event_details" = "EVENT DETAILS";
+"lstr_share_on" = "Share On";
+"lstr_go_to_profile" = "Go To Profile";
+
+"lstr_add_your_interest" = "Add your interest";
+"lstr_interest" = "Interest";
+"lstr_enter_interest" = "Enter Interest";
+"lstr_add" = "ADD";
+"lstr_other" = "OTHER";
+
+"lstr_fName" = "First Name";
+"lstr_lName" = "Last Name";
+
+"lstr_please_sign_in" = "Please sign in";
+"lstr_password_does_not_match" = "Password does not match";
+
+"lstr_saved_items" = "Saved Items";
+"lstr_remove" = "REMOVE";
+"lstr_navigate_to_map" = "NAVIGATE TO MAP";
+
+"lstr_select_date" = "SELECT DATE";
+
+"lstr_frequently_asked_questions" = "Frequently asked questions";
+"lstr_get_in_touch" = "Get in touch!";
+"lstr_occupied" = "Occupied";
+
+"lstr_following" = "تابع";
+"lstr_follow" = "تابعنا";
+
+"lstr_subscribe_to_newsletter" = "Subscribe to Newsletter";
+"lstr_maps" = "MAPS";

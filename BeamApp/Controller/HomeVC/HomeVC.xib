@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19144"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="HomeVC" customModule="BeamApp" customModuleProvider="target">
+            <connections>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Bvo-z8-6BA">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="661"/>
+                    <subviews>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo-full" translatesAutoresizingMaskIntoConstraints="NO" id="aFJ-Q7-abI">
+                            <rect key="frame" x="275" y="25" width="80" height="15"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="15" id="DiJ-EB-SSV"/>
+                                <constraint firstAttribute="width" constant="80" id="Y38-Hh-eQn"/>
+                            </constraints>
+                        </imageView>
+                        <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="BWL-p8-Lgr">
+                            <rect key="frame" x="20" y="55" width="335" height="63.5"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Products" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SOk-bY-twJ" customClass="AppLabel" customModule="BeamApp" customModuleProvider="target">
+                                    <rect key="frame" x="0.0" y="0.0" width="335" height="29"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="string" keyPath="fontStyle" value="regular"/>
+                                        <userDefinedRuntimeAttribute type="string" keyPath="textString" value="Products"/>
+                                    </userDefinedRuntimeAttributes>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0 products" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="i70-8Y-1v1" customClass="AppLabel" customModule="BeamApp" customModuleProvider="target">
+                                    <rect key="frame" x="0.0" y="44" width="335" height="19.5"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="string" keyPath="fontStyle" value="regular"/>
+                                        <userDefinedRuntimeAttribute type="string" keyPath="textString" value="0 products"/>
+                                    </userDefinedRuntimeAttributes>
+                                </label>
+                            </subviews>
+                        </stackView>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="st7-yh-GqQ" customClass="AppButton" customModule="BeamApp" customModuleProvider="target">
+                            <rect key="frame" x="156.5" y="290.5" width="62" height="80"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="62" id="QdX-UM-DIV"/>
+                                <constraint firstAttribute="height" constant="80" id="q9R-S2-eGH"/>
+                            </constraints>
+                            <state key="normal" title="Button"/>
+                            <buttonConfiguration key="configuration" style="plain" image="scan-group"/>
+                            <connections>
+                                <action selector="tappedScanButton:" destination="-1" eventType="touchUpInside" id="JqJ-vv-1Gh"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Add your first product!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fSX-I9-a3X" customClass="AppLabel" customModule="BeamApp" customModuleProvider="target">
+                            <rect key="frame" x="20" y="386.5" width="335" height="18"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="string" keyPath="textString" value="Add your first product!"/>
+                            </userDefinedRuntimeAttributes>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="st7-yh-GqQ" firstAttribute="centerY" secondItem="Bvo-z8-6BA" secondAttribute="centerY" id="5lf-Oc-DJX"/>
+                        <constraint firstItem="fSX-I9-a3X" firstAttribute="leading" secondItem="Bvo-z8-6BA" secondAttribute="leading" constant="20" id="7Bc-Vq-74p"/>
+                        <constraint firstAttribute="trailing" secondItem="BWL-p8-Lgr" secondAttribute="trailing" constant="20" id="CiS-h6-HgL"/>
+                        <constraint firstAttribute="trailing" secondItem="aFJ-Q7-abI" secondAttribute="trailing" constant="20" id="Otb-tn-WYk"/>
+                        <constraint firstItem="aFJ-Q7-abI" firstAttribute="top" secondItem="Bvo-z8-6BA" secondAttribute="top" constant="25" id="YU3-a0-bLj"/>
+                        <constraint firstItem="fSX-I9-a3X" firstAttribute="top" secondItem="st7-yh-GqQ" secondAttribute="bottom" constant="16" id="b1H-do-B7R"/>
+                        <constraint firstAttribute="trailing" secondItem="fSX-I9-a3X" secondAttribute="trailing" constant="20" id="bjn-vx-HPX"/>
+                        <constraint firstItem="BWL-p8-Lgr" firstAttribute="top" secondItem="aFJ-Q7-abI" secondAttribute="bottom" constant="15" id="hKU-Wo-xh3"/>
+                        <constraint firstItem="BWL-p8-Lgr" firstAttribute="leading" secondItem="Bvo-z8-6BA" secondAttribute="leading" constant="20" id="vLv-hs-QUG"/>
+                        <constraint firstItem="st7-yh-GqQ" firstAttribute="centerX" secondItem="Bvo-z8-6BA" secondAttribute="centerX" id="wcU-pE-0Zj"/>
+                        <constraint firstItem="fSX-I9-a3X" firstAttribute="centerX" secondItem="Bvo-z8-6BA" secondAttribute="centerX" id="zTi-dk-2dg"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Ujj-w8-6Pd" customClass="GradientView" customModule="BeamApp" customModuleProvider="target">
+                    <rect key="frame" x="0.0" y="661" width="375" height="6"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="6" id="NeG-0t-tnV"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="color" keyPath="topColor">
+                            <color key="value" name="DarkBorderGradient"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="bottomColor">
+                            <color key="value" name="LightBorderGradient"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="Bvo-z8-6BA" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" id="1df-L7-SAl"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="Bvo-z8-6BA" secondAttribute="trailing" id="F9l-zM-SAH"/>
+                <constraint firstItem="Ujj-w8-6Pd" firstAttribute="top" secondItem="Bvo-z8-6BA" secondAttribute="bottom" id="HQj-d5-csx"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="Ujj-w8-6Pd" secondAttribute="trailing" id="YkA-8e-LDD"/>
+                <constraint firstAttribute="bottom" secondItem="Ujj-w8-6Pd" secondAttribute="bottom" id="dWC-YO-xaS"/>
+                <constraint firstItem="Bvo-z8-6BA" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" id="lAI-dr-nES"/>
+                <constraint firstItem="Ujj-w8-6Pd" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" id="yJM-v2-RfO"/>
+            </constraints>
+            <point key="canvasLocation" x="138.40000000000001" y="99.400299850074973"/>
+        </view>
+    </objects>
+    <designables>
+        <designable name="SOk-bY-twJ">
+            <size key="intrinsicContentSize" width="92.5" height="29"/>
+        </designable>
+        <designable name="fSX-I9-a3X">
+            <size key="intrinsicContentSize" width="155" height="18"/>
+        </designable>
+        <designable name="i70-8Y-1v1">
+            <size key="intrinsicContentSize" width="79" height="19.5"/>
+        </designable>
+        <designable name="st7-yh-GqQ">
+            <size key="intrinsicContentSize" width="85" height="93"/>
+        </designable>
+    </designables>
+    <resources>
+        <image name="logo-full" width="198.5" height="32"/>
+        <image name="scan-group" width="61" height="79"/>
+        <namedColor name="DarkBorderGradient">
+            <color red="0.075000002980232239" green="0.44299998879432678" blue="0.99599999189376831" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="LightBorderGradient">
+            <color red="0.0" green="0.94099998474121094" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

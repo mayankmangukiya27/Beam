@@ -1,0 +1,12 @@
+//
+//  Prod.xcconfig
+
+//
+
+#include "Pods/Target Support Files/Pods-Assima Mall/Pods-Assima Mall.release.xcconfig"
+
+ROOT_DOMAIN = myapp.production.mobiiworld.com
+ROOT_API_URL = https:/$()/myapp.production.mobiiworld.com/api/
+MY_APP_ICON = AppIcon
+MY_APP_NAME = Assima Mall Test
+//EXCLUDED_ARCHS[sdk=iphonesimulator*] = arm64

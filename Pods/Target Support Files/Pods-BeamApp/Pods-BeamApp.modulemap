@@ -1,0 +1,6 @@
+framework module Pods_BeamApp {
+  umbrella header "Pods-BeamApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

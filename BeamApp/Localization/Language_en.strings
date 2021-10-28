@@ -1,0 +1,187 @@
+/* 
+  Language_en.strings
+  Assima Mall
+
+  Created by Mobiiworld on 15/07/21.
+  
+*/
+
+"lstr_visit_as_a_guest" = "Visit as a Guest";
+"lstr_login" = "Login";
+"lstr_register" = "Register";
+"lstr_dark" = "Dark";
+"lstr_light" = "Light";
+"lstr_welcome_to_assima_mall" = "Welcome To Assima Mall";
+"lstr_visit_assima_today" = "VISIT ASSIMA TODAY!";
+"lstr_location_map" = "LOCATION MAP";
+"lstr_our_top_shops" = "OUR SHOPS IN ASSIMA";
+"lstr_welcom_back" = "Welcome back. Now get in here!";
+"lstr_email_or_mobile_num" = "Email Address";
+"lstr_password" = "Password";
+"lstr_password_must be_8_20_chars" = "Your password must be 8-20 characters";
+"lstr_sign_in" = "Sign In";
+"lstr_signup_email_or_mobile_num" = "Sign up with Email/Mobile Number";
+"lstr_sign_in_with_your_google_account" = "Sign in with your Google account";
+"lstr_sign_in_with_your_apple_account" = "Sign in with your Apple account";
+"lstr_sign_up" = "Sign up";
+"lstr_lets_get_you_an_account_and_discover_the_assima_shopping_mall" = "Let's get you an account and discover the Assima Shopping Mall";
+"lstr_name" = "Name";
+"lstr_email_address" = "Email Address";
+"lstr_mobile_number" = "Mobile Number";
+"lstr_search" = "Search";
+"lstr_editprofile" = "Edit Profile";
+"lstr_home" = "HOME";
+"lstr_offers" = "OFFERS";
+"lstr_dine" = "DINING";
+"lstr_shop" = "SHOPS";
+"lstr_entertain" = "ENTERTAINMENT";
+"lstr_health" = "HEALTH";
+"lstr_parking" = "PARKING";
+"lstr_restaurants" = "DINING";
+"lstr_shops" = "SHOPS";
+"lstr_entertainments" = "ENTERTAINMENTS";
+"lstr_healthwellness" = "HEALTH & WELLNESS";
+"lstr_whats_new" = "WHAT'S NEW";
+"lstr_parking" = "PARKING";
+"lstr_events" = "Events";
+"lstr_news" = "News";
+"lstr_faq" = "FAQs";
+"lstr_contact" = "Contact";
+
+"lstr_upcoming_events" = "UPCOMING EVENTS";
+
+"lstr_followus" = "Followus";
+"lstr_available" = "Available";
+"lstr_total" = "Total";
+//=======
+"lstr_insertlabel" = "HEALTH";
+"lstr_callus_lable" = "000000000";
+"lstr_parking_lable" = "P1, Grand Parking";
+"lstr_tommy_hillfiger" = "TOMMY HILLFIGER";
+"lstr_description" = "DESCRIPTION";
+"lstr_description_details" = "Lorem ipsum dolor sit amet, consectetur adipiscing,Lorem ipsum dolor sit amet, consectetur adipiscing";
+"lstr_chat" = "CHAT";
+"lstr_tommy_hillfiger_bag" = "TOMMY HILLFIGER BAGS";
+"lstr_save" = "SAVE";
+"lstr_follows" = "FOLLOW US";
+"lstr_level" = "LEVEL";
+"lstr_lower_ground_floor" = "Lower Ground Floor";
+
+"lstr_profile" = "PROFILE";
+"lstr_profile_description" = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.";
+"lstr_english" = "ENGLISH";
+"lstr_العربية" = "العربية";
+"lstr_dark" = "Dark";
+"lstr_light" = "Light";
+"lstr_languages_theme" = "Language & Theme";
+"lstr_tommy_hillfiger_bag" = "TOMMY HILLFIGER BAGS";
+"lstr_save" = "SAVE";
+"lstr_add_favourite" = "Add to Favourite";
+    
+"lstr_level" = "LEVEL";
+"lstr_lower_ground_floor" = "Lower Ground Floor";
+"lstr_edit_profile" = "Edit Profile";
+"lstr_mobile_no" = "Mobile No.";
+"lstr_email_id" = "Email ID";
+"lstr_nationality" = "Nationality";
+"lstr_mobile_no_" = "Mobile No.";
+"lstr_email_id_" = "Email ID";
+"lstr_nationality_" = "Nationality";
+
+"lstr_gender" = "Gender";
+"lstr_nationality" = "Nationality";
+"lstr_birth_date" = "Birth Date";
+
+"lstr_faqs" = "FAQs";
+"lstr_nodata" = "No Data Found";
+
+"lstr_we_love_to_hear_from_you" = "We’d love to hear from you";
+"lstr_contact_us" = "Contact Us";
+"lstr_full_name" = "Full Name";
+"lstr_message" = "Message";
+"lstr_write_desc" = "Write Description...";
+"lstr_submit" = "SUBMIT";
+
+//=====
+"lstr_description_Capitalised" = "Description";
+"lstr_Interests" = "INTERESTS";
+"lstr_update" = "UPDATE";
+"lstr_interests" = "INTERESTS";
+
+"lstr_grandparking_title" = "GRAND PARKING";
+"lstr_available" = "Available";
+"lstr_available_value" = "200";
+
+
+"lstr_assima_mall_location" = "Assima Mall Location";
+
+"lstr_country" = "COUNTRY";
+
+"lstr_terms_conditions" = "Terms & Conditions";
+"lstr_privacy_policy" = "Privacy Policy";
+
+"lstr_forgot_password" = "Forgot Password?";
+"lstr_login_using_mobile" = "Login using mobile no.";
+
+"lstr_or_contact_us" = "Or Contact Us";
+"lstr_call_us" = "Call Us";
+"lstr_email_us" = "Email Us";
+"lstr_location" = "Location";
+
+"lstr_enter_req_fields" = "Please Enter Required Fields";
+
+"lstr_cancel" = "Cancel";
+"lstr_upload_from_gallery" = "Upload from gallery";
+"lstr_take_a_pic" = "Take a picture";
+
+"lstr_view" = "View";
+
+"lstr_forgot_password" = "Forgot Password?";
+"lstr_change_password" = "Change Password";
+
+"lstr_current_password" = "Current Password";
+"lstr_new_password" = "New Password";
+"lstr_confirm_password" = "Confirm Password";
+
+"lstr_update_password" = "Update Password";
+
+"lstr_my_following" = "My Favourites";
+
+"lstr_logout" = "Logout";
+"lstr_are_u_sure_want_to_logout" = "Are you sure you want to logout?";
+"lstr_yes" = "YES";
+"lstr_no" = "NO";
+
+"lstr_news_details" = "NEWS DETAILS";
+
+"lstr_event_details" = "EVENT DETAILS";
+"lstr_share_on" = "Share On";
+"lstr_go_to_profile" = "Go To Profile";
+
+"lstr_add_your_interest" = "Add your interest";
+"lstr_interest" = "Interest";
+"lstr_enter_interest" = "Enter Interest";
+"lstr_add" = "ADD";
+"lstr_other" = "OTHER";
+
+"lstr_fName" = "First Name";
+"lstr_lName" = "Last Name";
+
+"lstr_please_sign_in" = "Please sign in";
+"lstr_password_does_not_match" = "Password does not match";
+
+"lstr_saved_items" = "Saved Items";
+"lstr_remove" = "REMOVE";
+"lstr_navigate_to_map" = "NAVIGATE TO MAP";
+
+"lstr_select_date" = "SELECT DATE";
+
+"lstr_frequently_asked_questions" = "Frequently asked questions";
+"lstr_get_in_touch" = "Get in touch!";
+"lstr_occupied" = "Occupied";
+
+"lstr_following" = "Favorite";
+"lstr_follow" = "Follow";
+
+"lstr_subscribe_to_newsletter" = "Subscribe to Newsletter";
+"lstr_maps" = "MAPS";

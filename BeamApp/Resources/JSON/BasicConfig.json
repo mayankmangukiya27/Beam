@@ -1,0 +1,1666 @@
+{
+    "statusCode": 10000,
+    "message": "Success",
+    "data": {
+        "primary_tab": "clubs",
+        "signUpTypes": [
+            "normal",
+            "facebook",
+            "twitter",
+            "google",
+            "apple"
+        ],
+        "signUpLevel": {
+            "basic": 1,
+            "competition": 2,
+            "teams": 3,
+            "additional": 4
+        },
+        "emirates": [
+            {
+                "id": 1,
+                "name": "Dubai"
+            },
+            {
+                "id": 2,
+                "name": "Abu Dhabi"
+            },
+            {
+                "id": 3,
+                "name": "Sharjah"
+            },
+            {
+                "id": 4,
+                "name": "Ajman"
+            },
+            {
+                "id": 5,
+                "name": "Ras al-Khaimah"
+            },
+            {
+                "id": 6,
+                "name": "Fujairah"
+            },
+            {
+                "id": 7,
+                "name": "Umm al-Quwain"
+            },
+            {
+                "id": 8,
+                "name": "Non UAE Resident"
+            }
+        ],
+        "country": [
+            {
+                "id": 1,
+                "code": "AD",
+                "dial_code": "376",
+                "name": "ANDORRA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/AD.png"
+            },
+            {
+                "id": 2,
+                "code": "AE",
+                "dial_code": "971",
+                "name": "UNITED ARAB EMIRATES",
+                "flag": "https://upl.dev.mobiiworld.com/flags/AE.png"
+            },
+            {
+                "id": 3,
+                "code": "AF",
+                "dial_code": "93",
+                "name": "AFGHANISTAN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/AF.png"
+            },
+            {
+                "id": 4,
+                "code": "AG",
+                "dial_code": "1268",
+                "name": "ANTIGUA AND BARBUDA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/AG.png"
+            },
+            {
+                "id": 5,
+                "code": "AI",
+                "dial_code": "1264",
+                "name": "ANGUILLA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/AI.png"
+            },
+            {
+                "id": 6,
+                "code": "AL",
+                "dial_code": "355",
+                "name": "ALBANIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/AL.png"
+            },
+            {
+                "id": 7,
+                "code": "AM",
+                "dial_code": "374",
+                "name": "ARMENIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/AM.png"
+            },
+            {
+                "id": 8,
+                "code": "AN",
+                "dial_code": "599",
+                "name": "NETHERLANDS ANTILLES",
+                "flag": "https://upl.dev.mobiiworld.com/flags/AN.png"
+            },
+            {
+                "id": 9,
+                "code": "AO",
+                "dial_code": "244",
+                "name": "ANGOLA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/AO.png"
+            },
+            {
+                "id": 10,
+                "code": "AQ",
+                "dial_code": "672",
+                "name": "ANTARCTICA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/AQ.png"
+            },
+            {
+                "id": 11,
+                "code": "AR",
+                "dial_code": "54",
+                "name": "ARGENTINA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/AR.png"
+            },
+            {
+                "id": 12,
+                "code": "AS",
+                "dial_code": "1684",
+                "name": "AMERICAN SAMOA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/AS.png"
+            },
+            {
+                "id": 13,
+                "code": "AT",
+                "dial_code": "43",
+                "name": "AUSTRIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/AT.png"
+            },
+            {
+                "id": 14,
+                "code": "AU",
+                "dial_code": "61",
+                "name": "AUSTRALIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/AU.png"
+            },
+            {
+                "id": 15,
+                "code": "AW",
+                "dial_code": "297",
+                "name": "ARUBA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/AW.png"
+            },
+            {
+                "id": 16,
+                "code": "AZ",
+                "dial_code": "994",
+                "name": "AZERBAIJAN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/AZ.png"
+            },
+            {
+                "id": 17,
+                "code": "BA",
+                "dial_code": "387",
+                "name": "BOSNIA AND HERZEGOVINA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BA.png"
+            },
+            {
+                "id": 18,
+                "code": "BB",
+                "dial_code": "1246",
+                "name": "BARBADOS",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BB.png"
+            },
+            {
+                "id": 19,
+                "code": "BD",
+                "dial_code": "880",
+                "name": "BANGLADESH",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BD.png"
+            },
+            {
+                "id": 20,
+                "code": "BE",
+                "dial_code": "32",
+                "name": "BELGIUM",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BE.png"
+            },
+            {
+                "id": 21,
+                "code": "BF",
+                "dial_code": "226",
+                "name": "BURKINA FASO",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BF.png"
+            },
+            {
+                "id": 22,
+                "code": "BG",
+                "dial_code": "359",
+                "name": "BULGARIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BG.png"
+            },
+            {
+                "id": 23,
+                "code": "BH",
+                "dial_code": "973",
+                "name": "BAHRAIN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BH.png"
+            },
+            {
+                "id": 24,
+                "code": "BI",
+                "dial_code": "257",
+                "name": "BURUNDI",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BI.png"
+            },
+            {
+                "id": 25,
+                "code": "BJ",
+                "dial_code": "229",
+                "name": "BENIN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BJ.png"
+            },
+            {
+                "id": 26,
+                "code": "BL",
+                "dial_code": "590",
+                "name": "SAINT BARTHELEMY",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BL.png"
+            },
+            {
+                "id": 27,
+                "code": "BM",
+                "dial_code": "1441",
+                "name": "BERMUDA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BM.png"
+            },
+            {
+                "id": 28,
+                "code": "BN",
+                "dial_code": "673",
+                "name": "BRUNEI DARUSSALAM",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BN.png"
+            },
+            {
+                "id": 29,
+                "code": "BO",
+                "dial_code": "591",
+                "name": "BOLIVIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BO.png"
+            },
+            {
+                "id": 30,
+                "code": "BR",
+                "dial_code": "55",
+                "name": "BRAZIL",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BR.png"
+            },
+            {
+                "id": 31,
+                "code": "BS",
+                "dial_code": "1242",
+                "name": "BAHAMAS",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BS.png"
+            },
+            {
+                "id": 32,
+                "code": "BT",
+                "dial_code": "975",
+                "name": "BHUTAN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BT.png"
+            },
+            {
+                "id": 33,
+                "code": "BW",
+                "dial_code": "267",
+                "name": "BOTSWANA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BW.png"
+            },
+            {
+                "id": 34,
+                "code": "BY",
+                "dial_code": "375",
+                "name": "BELARUS",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BY.png"
+            },
+            {
+                "id": 35,
+                "code": "BZ",
+                "dial_code": "501",
+                "name": "BELIZE",
+                "flag": "https://upl.dev.mobiiworld.com/flags/BZ.png"
+            },
+            {
+                "id": 36,
+                "code": "CA",
+                "dial_code": "1",
+                "name": "CANADA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/CA.png"
+            },
+            {
+                "id": 37,
+                "code": "CC",
+                "dial_code": "61",
+                "name": "COCOS (KEELING) ISLANDS",
+                "flag": "https://upl.dev.mobiiworld.com/flags/CC.png"
+            },
+            {
+                "id": 38,
+                "code": "CD",
+                "dial_code": "243",
+                "name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+                "flag": "https://upl.dev.mobiiworld.com/flags/CD.png"
+            },
+            {
+                "id": 39,
+                "code": "CF",
+                "dial_code": "236",
+                "name": "CENTRAL AFRICAN REPUBLIC",
+                "flag": "https://upl.dev.mobiiworld.com/flags/CF.png"
+            },
+            {
+                "id": 40,
+                "code": "CG",
+                "dial_code": "242",
+                "name": "CONGO",
+                "flag": "https://upl.dev.mobiiworld.com/flags/CG.png"
+            },
+            {
+                "id": 41,
+                "code": "CH",
+                "dial_code": "41",
+                "name": "SWITZERLAND",
+                "flag": "https://upl.dev.mobiiworld.com/flags/CH.png"
+            },
+            {
+                "id": 42,
+                "code": "CI",
+                "dial_code": "225",
+                "name": "COTE D IVOIRE",
+                "flag": "https://upl.dev.mobiiworld.com/flags/CI.png"
+            },
+            {
+                "id": 43,
+                "code": "CK",
+                "dial_code": "682",
+                "name": "COOK ISLANDS",
+                "flag": "https://upl.dev.mobiiworld.com/flags/CK.png"
+            },
+            {
+                "id": 44,
+                "code": "CL",
+                "dial_code": "56",
+                "name": "CHILE",
+                "flag": "https://upl.dev.mobiiworld.com/flags/CL.png"
+            },
+            {
+                "id": 45,
+                "code": "CM",
+                "dial_code": "237",
+                "name": "CAMEROON",
+                "flag": "https://upl.dev.mobiiworld.com/flags/CM.png"
+            },
+            {
+                "id": 46,
+                "code": "CN",
+                "dial_code": "86",
+                "name": "CHINA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/CN.png"
+            },
+            {
+                "id": 47,
+                "code": "CO",
+                "dial_code": "57",
+                "name": "COLOMBIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/CO.png"
+            },
+            {
+                "id": 48,
+                "code": "CR",
+                "dial_code": "506",
+                "name": "COSTA RICA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/CR.png"
+            },
+            {
+                "id": 49,
+                "code": "CU",
+                "dial_code": "53",
+                "name": "CUBA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/CU.png"
+            },
+            {
+                "id": 50,
+                "code": "CV",
+                "dial_code": "238",
+                "name": "CAPE VERDE",
+                "flag": "https://upl.dev.mobiiworld.com/flags/CV.png"
+            },
+            {
+                "id": 51,
+                "code": "CX",
+                "dial_code": "61",
+                "name": "CHRISTMAS ISLAND",
+                "flag": "https://upl.dev.mobiiworld.com/flags/CX.png"
+            },
+            {
+                "id": 52,
+                "code": "CY",
+                "dial_code": "357",
+                "name": "CYPRUS",
+                "flag": "https://upl.dev.mobiiworld.com/flags/CY.png"
+            },
+            {
+                "id": 53,
+                "code": "CZ",
+                "dial_code": "420",
+                "name": "CZECH REPUBLIC",
+                "flag": "https://upl.dev.mobiiworld.com/flags/CZ.png"
+            },
+            {
+                "id": 54,
+                "code": "DE",
+                "dial_code": "49",
+                "name": "GERMANY",
+                "flag": "https://upl.dev.mobiiworld.com/flags/DE.png"
+            },
+            {
+                "id": 55,
+                "code": "DJ",
+                "dial_code": "253",
+                "name": "DJIBOUTI",
+                "flag": "https://upl.dev.mobiiworld.com/flags/DJ.png"
+            },
+            {
+                "id": 56,
+                "code": "DK",
+                "dial_code": "45",
+                "name": "DENMARK",
+                "flag": "https://upl.dev.mobiiworld.com/flags/DK.png"
+            },
+            {
+                "id": 57,
+                "code": "DM",
+                "dial_code": "1767",
+                "name": "DOMINICA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/DM.png"
+            },
+            {
+                "id": 58,
+                "code": "DO",
+                "dial_code": "1809",
+                "name": "DOMINICAN REPUBLIC",
+                "flag": "https://upl.dev.mobiiworld.com/flags/DO.png"
+            },
+            {
+                "id": 59,
+                "code": "DZ",
+                "dial_code": "213",
+                "name": "ALGERIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/DZ.png"
+            },
+            {
+                "id": 60,
+                "code": "EC",
+                "dial_code": "593",
+                "name": "ECUADOR",
+                "flag": "https://upl.dev.mobiiworld.com/flags/EC.png"
+            },
+            {
+                "id": 61,
+                "code": "EE",
+                "dial_code": "372",
+                "name": "ESTONIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/EE.png"
+            },
+            {
+                "id": 62,
+                "code": "EG",
+                "dial_code": "20",
+                "name": "EGYPT",
+                "flag": "https://upl.dev.mobiiworld.com/flags/EG.png"
+            },
+            {
+                "id": 63,
+                "code": "ER",
+                "dial_code": "291",
+                "name": "ERITREA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/ER.png"
+            },
+            {
+                "id": 64,
+                "code": "ES",
+                "dial_code": "34",
+                "name": "SPAIN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/ES.png"
+            },
+            {
+                "id": 65,
+                "code": "ET",
+                "dial_code": "251",
+                "name": "ETHIOPIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/ET.png"
+            },
+            {
+                "id": 66,
+                "code": "FI",
+                "dial_code": "358",
+                "name": "FINLAND",
+                "flag": "https://upl.dev.mobiiworld.com/flags/FI.png"
+            },
+            {
+                "id": 67,
+                "code": "FJ",
+                "dial_code": "679",
+                "name": "FIJI",
+                "flag": "https://upl.dev.mobiiworld.com/flags/FJ.png"
+            },
+            {
+                "id": 68,
+                "code": "FK",
+                "dial_code": "500",
+                "name": "FALKLAND ISLANDS (MALVINAS)",
+                "flag": "https://upl.dev.mobiiworld.com/flags/FK.png"
+            },
+            {
+                "id": 69,
+                "code": "FM",
+                "dial_code": "691",
+                "name": "MICRONESIA, FEDERATED STATES OF",
+                "flag": "https://upl.dev.mobiiworld.com/flags/FM.png"
+            },
+            {
+                "id": 70,
+                "code": "FO",
+                "dial_code": "298",
+                "name": "FAROE ISLANDS",
+                "flag": "https://upl.dev.mobiiworld.com/flags/FO.png"
+            },
+            {
+                "id": 71,
+                "code": "FR",
+                "dial_code": "33",
+                "name": "FRANCE",
+                "flag": "https://upl.dev.mobiiworld.com/flags/FR.png"
+            },
+            {
+                "id": 72,
+                "code": "GA",
+                "dial_code": "241",
+                "name": "GABON",
+                "flag": "https://upl.dev.mobiiworld.com/flags/GA.png"
+            },
+            {
+                "id": 73,
+                "code": "GB",
+                "dial_code": "44",
+                "name": "UNITED KINGDOM",
+                "flag": "https://upl.dev.mobiiworld.com/flags/GB.png"
+            },
+            {
+                "id": 74,
+                "code": "GD",
+                "dial_code": "1473",
+                "name": "GRENADA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/GD.png"
+            },
+            {
+                "id": 75,
+                "code": "GE",
+                "dial_code": "995",
+                "name": "GEORGIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/GE.png"
+            },
+            {
+                "id": 76,
+                "code": "GH",
+                "dial_code": "233",
+                "name": "GHANA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/GH.png"
+            },
+            {
+                "id": 77,
+                "code": "GI",
+                "dial_code": "350",
+                "name": "GIBRALTAR",
+                "flag": "https://upl.dev.mobiiworld.com/flags/GI.png"
+            },
+            {
+                "id": 78,
+                "code": "GL",
+                "dial_code": "299",
+                "name": "GREENLAND",
+                "flag": "https://upl.dev.mobiiworld.com/flags/GL.png"
+            },
+            {
+                "id": 79,
+                "code": "GM",
+                "dial_code": "220",
+                "name": "GAMBIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/GM.png"
+            },
+            {
+                "id": 80,
+                "code": "GN",
+                "dial_code": "224",
+                "name": "GUINEA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/GN.png"
+            },
+            {
+                "id": 81,
+                "code": "GQ",
+                "dial_code": "240",
+                "name": "EQUATORIAL GUINEA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/GQ.png"
+            },
+            {
+                "id": 82,
+                "code": "GR",
+                "dial_code": "30",
+                "name": "GREECE",
+                "flag": "https://upl.dev.mobiiworld.com/flags/GR.png"
+            },
+            {
+                "id": 83,
+                "code": "GT",
+                "dial_code": "502",
+                "name": "GUATEMALA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/GT.png"
+            },
+            {
+                "id": 84,
+                "code": "GU",
+                "dial_code": "1671",
+                "name": "GUAM",
+                "flag": "https://upl.dev.mobiiworld.com/flags/GU.png"
+            },
+            {
+                "id": 85,
+                "code": "GW",
+                "dial_code": "245",
+                "name": "GUINEA-BISSAU",
+                "flag": "https://upl.dev.mobiiworld.com/flags/GW.png"
+            },
+            {
+                "id": 86,
+                "code": "GY",
+                "dial_code": "592",
+                "name": "GUYANA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/GY.png"
+            },
+            {
+                "id": 87,
+                "code": "HK",
+                "dial_code": "852",
+                "name": "HONG KONG",
+                "flag": "https://upl.dev.mobiiworld.com/flags/HK.png"
+            },
+            {
+                "id": 88,
+                "code": "HN",
+                "dial_code": "504",
+                "name": "HONDURAS",
+                "flag": "https://upl.dev.mobiiworld.com/flags/HN.png"
+            },
+            {
+                "id": 89,
+                "code": "HR",
+                "dial_code": "385",
+                "name": "CROATIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/HR.png"
+            },
+            {
+                "id": 90,
+                "code": "HT",
+                "dial_code": "509",
+                "name": "HAITI",
+                "flag": "https://upl.dev.mobiiworld.com/flags/HT.png"
+            },
+            {
+                "id": 91,
+                "code": "HU",
+                "dial_code": "36",
+                "name": "HUNGARY",
+                "flag": "https://upl.dev.mobiiworld.com/flags/HU.png"
+            },
+            {
+                "id": 92,
+                "code": "ID",
+                "dial_code": "62",
+                "name": "INDONESIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/ID.png"
+            },
+            {
+                "id": 93,
+                "code": "IE",
+                "dial_code": "353",
+                "name": "IRELAND",
+                "flag": "https://upl.dev.mobiiworld.com/flags/IE.png"
+            },
+            {
+                "id": 94,
+                "code": "IL",
+                "dial_code": "972",
+                "name": "ISRAEL",
+                "flag": "https://upl.dev.mobiiworld.com/flags/IL.png"
+            },
+            {
+                "id": 95,
+                "code": "IM",
+                "dial_code": "44",
+                "name": "ISLE OF MAN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/IM.png"
+            },
+            {
+                "id": 96,
+                "code": "IN",
+                "dial_code": "91",
+                "name": "INDIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/IN.png"
+            },
+            {
+                "id": 97,
+                "code": "IQ",
+                "dial_code": "964",
+                "name": "IRAQ",
+                "flag": "https://upl.dev.mobiiworld.com/flags/IQ.png"
+            },
+            {
+                "id": 98,
+                "code": "IR",
+                "dial_code": "98",
+                "name": "IRAN, ISLAMIC REPUBLIC OF",
+                "flag": "https://upl.dev.mobiiworld.com/flags/IR.png"
+            },
+            {
+                "id": 99,
+                "code": "IS",
+                "dial_code": "354",
+                "name": "ICELAND",
+                "flag": "https://upl.dev.mobiiworld.com/flags/IS.png"
+            },
+            {
+                "id": 100,
+                "code": "IT",
+                "dial_code": "39",
+                "name": "ITALY",
+                "flag": "https://upl.dev.mobiiworld.com/flags/IT.png"
+            },
+            {
+                "id": 101,
+                "code": "JM",
+                "dial_code": "1876",
+                "name": "JAMAICA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/JM.png"
+            },
+            {
+                "id": 102,
+                "code": "JO",
+                "dial_code": "962",
+                "name": "JORDAN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/JO.png"
+            },
+            {
+                "id": 103,
+                "code": "JP",
+                "dial_code": "81",
+                "name": "JAPAN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/JP.png"
+            },
+            {
+                "id": 104,
+                "code": "KE",
+                "dial_code": "254",
+                "name": "KENYA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/KE.png"
+            },
+            {
+                "id": 105,
+                "code": "KG",
+                "dial_code": "996",
+                "name": "KYRGYZSTAN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/KG.png"
+            },
+            {
+                "id": 106,
+                "code": "KH",
+                "dial_code": "855",
+                "name": "CAMBODIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/KH.png"
+            },
+            {
+                "id": 107,
+                "code": "KI",
+                "dial_code": "686",
+                "name": "KIRIBATI",
+                "flag": "https://upl.dev.mobiiworld.com/flags/KI.png"
+            },
+            {
+                "id": 108,
+                "code": "KM",
+                "dial_code": "269",
+                "name": "COMOROS",
+                "flag": "https://upl.dev.mobiiworld.com/flags/KM.png"
+            },
+            {
+                "id": 109,
+                "code": "KN",
+                "dial_code": "1869",
+                "name": "SAINT KITTS AND NEVIS",
+                "flag": "https://upl.dev.mobiiworld.com/flags/KN.png"
+            },
+            {
+                "id": 110,
+                "code": "KP",
+                "dial_code": "850",
+                "name": "KOREA DEMOCRATIC PEOPLES REPUBLIC OF",
+                "flag": "https://upl.dev.mobiiworld.com/flags/KP.png"
+            },
+            {
+                "id": 111,
+                "code": "KR",
+                "dial_code": "82",
+                "name": "KOREA REPUBLIC OF",
+                "flag": "https://upl.dev.mobiiworld.com/flags/KR.png"
+            },
+            {
+                "id": 112,
+                "code": "KW",
+                "dial_code": "965",
+                "name": "KUWAIT",
+                "flag": "https://upl.dev.mobiiworld.com/flags/KW.png"
+            },
+            {
+                "id": 113,
+                "code": "KY",
+                "dial_code": "1345",
+                "name": "CAYMAN ISLANDS",
+                "flag": "https://upl.dev.mobiiworld.com/flags/KY.png"
+            },
+            {
+                "id": 114,
+                "code": "KZ",
+                "dial_code": "7",
+                "name": "KAZAKSTAN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/KZ.png"
+            },
+            {
+                "id": 115,
+                "code": "LA",
+                "dial_code": "856",
+                "name": "LAO PEOPLES DEMOCRATIC REPUBLIC",
+                "flag": "https://upl.dev.mobiiworld.com/flags/LA.png"
+            },
+            {
+                "id": 116,
+                "code": "LB",
+                "dial_code": "961",
+                "name": "LEBANON",
+                "flag": "https://upl.dev.mobiiworld.com/flags/LB.png"
+            },
+            {
+                "id": 117,
+                "code": "LC",
+                "dial_code": "1758",
+                "name": "SAINT LUCIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/LC.png"
+            },
+            {
+                "id": 118,
+                "code": "LI",
+                "dial_code": "423",
+                "name": "LIECHTENSTEIN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/LI.png"
+            },
+            {
+                "id": 119,
+                "code": "LK",
+                "dial_code": "94",
+                "name": "SRI LANKA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/LK.png"
+            },
+            {
+                "id": 120,
+                "code": "LR",
+                "dial_code": "231",
+                "name": "LIBERIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/LR.png"
+            },
+            {
+                "id": 121,
+                "code": "LS",
+                "dial_code": "266",
+                "name": "LESOTHO",
+                "flag": "https://upl.dev.mobiiworld.com/flags/LS.png"
+            },
+            {
+                "id": 122,
+                "code": "LT",
+                "dial_code": "370",
+                "name": "LITHUANIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/LT.png"
+            },
+            {
+                "id": 123,
+                "code": "LU",
+                "dial_code": "352",
+                "name": "LUXEMBOURG",
+                "flag": "https://upl.dev.mobiiworld.com/flags/LU.png"
+            },
+            {
+                "id": 124,
+                "code": "LV",
+                "dial_code": "371",
+                "name": "LATVIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/LV.png"
+            },
+            {
+                "id": 125,
+                "code": "LY",
+                "dial_code": "218",
+                "name": "LIBYAN ARAB JAMAHIRIYA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/LY.png"
+            },
+            {
+                "id": 126,
+                "code": "MA",
+                "dial_code": "212",
+                "name": "MOROCCO",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MA.png"
+            },
+            {
+                "id": 127,
+                "code": "MC",
+                "dial_code": "377",
+                "name": "MONACO",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MC.png"
+            },
+            {
+                "id": 128,
+                "code": "MD",
+                "dial_code": "373",
+                "name": "MOLDOVA, REPUBLIC OF",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MD.png"
+            },
+            {
+                "id": 129,
+                "code": "ME",
+                "dial_code": "382",
+                "name": "MONTENEGRO",
+                "flag": "https://upl.dev.mobiiworld.com/flags/ME.png"
+            },
+            {
+                "id": 130,
+                "code": "MF",
+                "dial_code": "1599",
+                "name": "SAINT MARTIN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MF.png"
+            },
+            {
+                "id": 131,
+                "code": "MG",
+                "dial_code": "261",
+                "name": "MADAGASCAR",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MG.png"
+            },
+            {
+                "id": 132,
+                "code": "MH",
+                "dial_code": "692",
+                "name": "MARSHALL ISLANDS",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MH.png"
+            },
+            {
+                "id": 133,
+                "code": "MK",
+                "dial_code": "389",
+                "name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MK.png"
+            },
+            {
+                "id": 134,
+                "code": "ML",
+                "dial_code": "223",
+                "name": "MALI",
+                "flag": "https://upl.dev.mobiiworld.com/flags/ML.png"
+            },
+            {
+                "id": 135,
+                "code": "MM",
+                "dial_code": "95",
+                "name": "MYANMAR",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MM.png"
+            },
+            {
+                "id": 136,
+                "code": "MN",
+                "dial_code": "976",
+                "name": "MONGOLIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MN.png"
+            },
+            {
+                "id": 137,
+                "code": "MO",
+                "dial_code": "853",
+                "name": "MACAU",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MO.png"
+            },
+            {
+                "id": 138,
+                "code": "MP",
+                "dial_code": "1670",
+                "name": "NORTHERN MARIANA ISLANDS",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MP.png"
+            },
+            {
+                "id": 139,
+                "code": "MR",
+                "dial_code": "222",
+                "name": "MAURITANIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MR.png"
+            },
+            {
+                "id": 140,
+                "code": "MS",
+                "dial_code": "1664",
+                "name": "MONTSERRAT",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MS.png"
+            },
+            {
+                "id": 141,
+                "code": "MT",
+                "dial_code": "356",
+                "name": "MALTA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MT.png"
+            },
+            {
+                "id": 142,
+                "code": "MU",
+                "dial_code": "230",
+                "name": "MAURITIUS",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MU.png"
+            },
+            {
+                "id": 143,
+                "code": "MV",
+                "dial_code": "960",
+                "name": "MALDIVES",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MV.png"
+            },
+            {
+                "id": 144,
+                "code": "MW",
+                "dial_code": "265",
+                "name": "MALAWI",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MW.png"
+            },
+            {
+                "id": 145,
+                "code": "MX",
+                "dial_code": "52",
+                "name": "MEXICO",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MX.png"
+            },
+            {
+                "id": 146,
+                "code": "MY",
+                "dial_code": "60",
+                "name": "MALAYSIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MY.png"
+            },
+            {
+                "id": 147,
+                "code": "MZ",
+                "dial_code": "258",
+                "name": "MOZAMBIQUE",
+                "flag": "https://upl.dev.mobiiworld.com/flags/MZ.png"
+            },
+            {
+                "id": 148,
+                "code": "NA",
+                "dial_code": "264",
+                "name": "NAMIBIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/NA.png"
+            },
+            {
+                "id": 149,
+                "code": "NC",
+                "dial_code": "687",
+                "name": "NEW CALEDONIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/NC.png"
+            },
+            {
+                "id": 150,
+                "code": "NE",
+                "dial_code": "227",
+                "name": "NIGER",
+                "flag": "https://upl.dev.mobiiworld.com/flags/NE.png"
+            },
+            {
+                "id": 151,
+                "code": "NG",
+                "dial_code": "234",
+                "name": "NIGERIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/NG.png"
+            },
+            {
+                "id": 152,
+                "code": "NI",
+                "dial_code": "505",
+                "name": "NICARAGUA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/NI.png"
+            },
+            {
+                "id": 153,
+                "code": "NL",
+                "dial_code": "31",
+                "name": "NETHERLANDS",
+                "flag": "https://upl.dev.mobiiworld.com/flags/NL.png"
+            },
+            {
+                "id": 154,
+                "code": "NO",
+                "dial_code": "47",
+                "name": "NORWAY",
+                "flag": "https://upl.dev.mobiiworld.com/flags/NO.png"
+            },
+            {
+                "id": 155,
+                "code": "NP",
+                "dial_code": "977",
+                "name": "NEPAL",
+                "flag": "https://upl.dev.mobiiworld.com/flags/NP.png"
+            },
+            {
+                "id": 156,
+                "code": "NR",
+                "dial_code": "674",
+                "name": "NAURU",
+                "flag": "https://upl.dev.mobiiworld.com/flags/NR.png"
+            },
+            {
+                "id": 157,
+                "code": "NU",
+                "dial_code": "683",
+                "name": "NIUE",
+                "flag": "https://upl.dev.mobiiworld.com/flags/NU.png"
+            },
+            {
+                "id": 158,
+                "code": "NZ",
+                "dial_code": "64",
+                "name": "NEW ZEALAND",
+                "flag": "https://upl.dev.mobiiworld.com/flags/NZ.png"
+            },
+            {
+                "id": 159,
+                "code": "OM",
+                "dial_code": "968",
+                "name": "OMAN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/OM.png"
+            },
+            {
+                "id": 160,
+                "code": "PA",
+                "dial_code": "507",
+                "name": "PANAMA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/PA.png"
+            },
+            {
+                "id": 161,
+                "code": "PE",
+                "dial_code": "51",
+                "name": "PERU",
+                "flag": "https://upl.dev.mobiiworld.com/flags/PE.png"
+            },
+            {
+                "id": 162,
+                "code": "PF",
+                "dial_code": "689",
+                "name": "FRENCH POLYNESIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/PF.png"
+            },
+            {
+                "id": 163,
+                "code": "PG",
+                "dial_code": "675",
+                "name": "PAPUA NEW GUINEA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/PG.png"
+            },
+            {
+                "id": 164,
+                "code": "PH",
+                "dial_code": "63",
+                "name": "PHILIPPINES",
+                "flag": "https://upl.dev.mobiiworld.com/flags/PH.png"
+            },
+            {
+                "id": 165,
+                "code": "PK",
+                "dial_code": "92",
+                "name": "PAKISTAN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/PK.png"
+            },
+            {
+                "id": 166,
+                "code": "PL",
+                "dial_code": "48",
+                "name": "POLAND",
+                "flag": "https://upl.dev.mobiiworld.com/flags/PL.png"
+            },
+            {
+                "id": 167,
+                "code": "PM",
+                "dial_code": "508",
+                "name": "SAINT PIERRE AND MIQUELON",
+                "flag": "https://upl.dev.mobiiworld.com/flags/PM.png"
+            },
+            {
+                "id": 168,
+                "code": "PN",
+                "dial_code": "870",
+                "name": "PITCAIRN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/PN.png"
+            },
+            {
+                "id": 169,
+                "code": "PR",
+                "dial_code": "1",
+                "name": "PUERTO RICO",
+                "flag": "https://upl.dev.mobiiworld.com/flags/PR.png"
+            },
+            {
+                "id": 170,
+                "code": "PT",
+                "dial_code": "351",
+                "name": "PORTUGAL",
+                "flag": "https://upl.dev.mobiiworld.com/flags/PT.png"
+            },
+            {
+                "id": 171,
+                "code": "PW",
+                "dial_code": "680",
+                "name": "PALAU",
+                "flag": "https://upl.dev.mobiiworld.com/flags/PW.png"
+            },
+            {
+                "id": 172,
+                "code": "PY",
+                "dial_code": "595",
+                "name": "PARAGUAY",
+                "flag": "https://upl.dev.mobiiworld.com/flags/PY.png"
+            },
+            {
+                "id": 173,
+                "code": "QA",
+                "dial_code": "974",
+                "name": "QATAR",
+                "flag": "https://upl.dev.mobiiworld.com/flags/QA.png"
+            },
+            {
+                "id": 174,
+                "code": "RO",
+                "dial_code": "40",
+                "name": "ROMANIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/RO.png"
+            },
+            {
+                "id": 175,
+                "code": "RS",
+                "dial_code": "381",
+                "name": "SERBIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/RS.png"
+            },
+            {
+                "id": 176,
+                "code": "RU",
+                "dial_code": "7",
+                "name": "RUSSIAN FEDERATION",
+                "flag": "https://upl.dev.mobiiworld.com/flags/RU.png"
+            },
+            {
+                "id": 177,
+                "code": "RW",
+                "dial_code": "250",
+                "name": "RWANDA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/RW.png"
+            },
+            {
+                "id": 178,
+                "code": "SA",
+                "dial_code": "966",
+                "name": "SAUDI ARABIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/SA.png"
+            },
+            {
+                "id": 179,
+                "code": "SB",
+                "dial_code": "677",
+                "name": "SOLOMON ISLANDS",
+                "flag": "https://upl.dev.mobiiworld.com/flags/SB.png"
+            },
+            {
+                "id": 180,
+                "code": "SC",
+                "dial_code": "248",
+                "name": "SEYCHELLES",
+                "flag": "https://upl.dev.mobiiworld.com/flags/SC.png"
+            },
+            {
+                "id": 181,
+                "code": "SD",
+                "dial_code": "249",
+                "name": "SUDAN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/SD.png"
+            },
+            {
+                "id": 182,
+                "code": "SE",
+                "dial_code": "46",
+                "name": "SWEDEN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/SE.png"
+            },
+            {
+                "id": 183,
+                "code": "SG",
+                "dial_code": "65",
+                "name": "SINGAPORE",
+                "flag": "https://upl.dev.mobiiworld.com/flags/SG.png"
+            },
+            {
+                "id": 184,
+                "code": "SH",
+                "dial_code": "290",
+                "name": "SAINT HELENA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/SH.png"
+            },
+            {
+                "id": 185,
+                "code": "SI",
+                "dial_code": "386",
+                "name": "SLOVENIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/SI.png"
+            },
+            {
+                "id": 186,
+                "code": "SK",
+                "dial_code": "421",
+                "name": "SLOVAKIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/SK.png"
+            },
+            {
+                "id": 187,
+                "code": "SL",
+                "dial_code": "232",
+                "name": "SIERRA LEONE",
+                "flag": "https://upl.dev.mobiiworld.com/flags/SL.png"
+            },
+            {
+                "id": 188,
+                "code": "SM",
+                "dial_code": "378",
+                "name": "SAN MARINO",
+                "flag": "https://upl.dev.mobiiworld.com/flags/SM.png"
+            },
+            {
+                "id": 189,
+                "code": "SN",
+                "dial_code": "221",
+                "name": "SENEGAL",
+                "flag": "https://upl.dev.mobiiworld.com/flags/SN.png"
+            },
+            {
+                "id": 190,
+                "code": "SO",
+                "dial_code": "252",
+                "name": "SOMALIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/SO.png"
+            },
+            {
+                "id": 191,
+                "code": "SR",
+                "dial_code": "597",
+                "name": "SURINAME",
+                "flag": "https://upl.dev.mobiiworld.com/flags/SR.png"
+            },
+            {
+                "id": 192,
+                "code": "ST",
+                "dial_code": "239",
+                "name": "SAO TOME AND PRINCIPE",
+                "flag": "https://upl.dev.mobiiworld.com/flags/ST.png"
+            },
+            {
+                "id": 193,
+                "code": "SV",
+                "dial_code": "503",
+                "name": "EL SALVADOR",
+                "flag": "https://upl.dev.mobiiworld.com/flags/SV.png"
+            },
+            {
+                "id": 194,
+                "code": "SY",
+                "dial_code": "963",
+                "name": "SYRIAN ARAB REPUBLIC",
+                "flag": "https://upl.dev.mobiiworld.com/flags/SY.png"
+            },
+            {
+                "id": 195,
+                "code": "SZ",
+                "dial_code": "268",
+                "name": "SWAZILAND",
+                "flag": "https://upl.dev.mobiiworld.com/flags/SZ.png"
+            },
+            {
+                "id": 196,
+                "code": "TC",
+                "dial_code": "1649",
+                "name": "TURKS AND CAICOS ISLANDS",
+                "flag": "https://upl.dev.mobiiworld.com/flags/TC.png"
+            },
+            {
+                "id": 197,
+                "code": "TD",
+                "dial_code": "235",
+                "name": "CHAD",
+                "flag": "https://upl.dev.mobiiworld.com/flags/TD.png"
+            },
+            {
+                "id": 198,
+                "code": "TG",
+                "dial_code": "228",
+                "name": "TOGO",
+                "flag": "https://upl.dev.mobiiworld.com/flags/TG.png"
+            },
+            {
+                "id": 199,
+                "code": "TH",
+                "dial_code": "66",
+                "name": "THAILAND",
+                "flag": "https://upl.dev.mobiiworld.com/flags/TH.png"
+            },
+            {
+                "id": 200,
+                "code": "TJ",
+                "dial_code": "992",
+                "name": "TAJIKISTAN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/TJ.png"
+            },
+            {
+                "id": 201,
+                "code": "TK",
+                "dial_code": "690",
+                "name": "TOKELAU",
+                "flag": "https://upl.dev.mobiiworld.com/flags/TK.png"
+            },
+            {
+                "id": 202,
+                "code": "TL",
+                "dial_code": "670",
+                "name": "TIMOR-LESTE",
+                "flag": "https://upl.dev.mobiiworld.com/flags/TL.png"
+            },
+            {
+                "id": 203,
+                "code": "TM",
+                "dial_code": "993",
+                "name": "TURKMENISTAN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/TM.png"
+            },
+            {
+                "id": 204,
+                "code": "TN",
+                "dial_code": "216",
+                "name": "TUNISIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/TN.png"
+            },
+            {
+                "id": 205,
+                "code": "TO",
+                "dial_code": "676",
+                "name": "TONGA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/TO.png"
+            },
+            {
+                "id": 206,
+                "code": "TR",
+                "dial_code": "90",
+                "name": "TURKEY",
+                "flag": "https://upl.dev.mobiiworld.com/flags/TR.png"
+            },
+            {
+                "id": 207,
+                "code": "TT",
+                "dial_code": "1868",
+                "name": "TRINIDAD AND TOBAGO",
+                "flag": "https://upl.dev.mobiiworld.com/flags/TT.png"
+            },
+            {
+                "id": 208,
+                "code": "TV",
+                "dial_code": "688",
+                "name": "TUVALU",
+                "flag": "https://upl.dev.mobiiworld.com/flags/TV.png"
+            },
+            {
+                "id": 209,
+                "code": "TW",
+                "dial_code": "886",
+                "name": "TAIWAN, PROVINCE OF CHINA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/TW.png"
+            },
+            {
+                "id": 210,
+                "code": "TZ",
+                "dial_code": "255",
+                "name": "TANZANIA, UNITED REPUBLIC OF",
+                "flag": "https://upl.dev.mobiiworld.com/flags/TZ.png"
+            },
+            {
+                "id": 211,
+                "code": "UA",
+                "dial_code": "380",
+                "name": "UKRAINE",
+                "flag": "https://upl.dev.mobiiworld.com/flags/UA.png"
+            },
+            {
+                "id": 212,
+                "code": "UG",
+                "dial_code": "256",
+                "name": "UGANDA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/UG.png"
+            },
+            {
+                "id": 213,
+                "code": "US",
+                "dial_code": "1",
+                "name": "UNITED STATES",
+                "flag": "https://upl.dev.mobiiworld.com/flags/US.png"
+            },
+            {
+                "id": 214,
+                "code": "UY",
+                "dial_code": "598",
+                "name": "URUGUAY",
+                "flag": "https://upl.dev.mobiiworld.com/flags/UY.png"
+            },
+            {
+                "id": 215,
+                "code": "UZ",
+                "dial_code": "998",
+                "name": "UZBEKISTAN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/UZ.png"
+            },
+            {
+                "id": 216,
+                "code": "VA",
+                "dial_code": "39",
+                "name": "HOLY SEE (VATICAN CITY STATE)",
+                "flag": "https://upl.dev.mobiiworld.com/flags/VA.png"
+            },
+            {
+                "id": 217,
+                "code": "VC",
+                "dial_code": "1784",
+                "name": "SAINT VINCENT AND THE GRENADINES",
+                "flag": "https://upl.dev.mobiiworld.com/flags/VC.png"
+            },
+            {
+                "id": 218,
+                "code": "VE",
+                "dial_code": "58",
+                "name": "VENEZUELA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/VE.png"
+            },
+            {
+                "id": 219,
+                "code": "VG",
+                "dial_code": "1284",
+                "name": "VIRGIN ISLANDS, BRITISH",
+                "flag": "https://upl.dev.mobiiworld.com/flags/VG.png"
+            },
+            {
+                "id": 220,
+                "code": "VI",
+                "dial_code": "1340",
+                "name": "VIRGIN ISLANDS, U.S.",
+                "flag": "https://upl.dev.mobiiworld.com/flags/VI.png"
+            },
+            {
+                "id": 221,
+                "code": "VN",
+                "dial_code": "84",
+                "name": "VIET NAM",
+                "flag": "https://upl.dev.mobiiworld.com/flags/VN.png"
+            },
+            {
+                "id": 222,
+                "code": "VU",
+                "dial_code": "678",
+                "name": "VANUATU",
+                "flag": "https://upl.dev.mobiiworld.com/flags/VU.png"
+            },
+            {
+                "id": 223,
+                "code": "WF",
+                "dial_code": "681",
+                "name": "WALLIS AND FUTUNA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/WF.png"
+            },
+            {
+                "id": 224,
+                "code": "WS",
+                "dial_code": "685",
+                "name": "SAMOA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/WS.png"
+            },
+            {
+                "id": 225,
+                "code": "XK",
+                "dial_code": "381",
+                "name": "KOSOVO",
+                "flag": "https://upl.dev.mobiiworld.com/flags/XK.png"
+            },
+            {
+                "id": 226,
+                "code": "YE",
+                "dial_code": "967",
+                "name": "YEMEN",
+                "flag": "https://upl.dev.mobiiworld.com/flags/YE.png"
+            },
+            {
+                "id": 227,
+                "code": "YT",
+                "dial_code": "262",
+                "name": "MAYOTTE",
+                "flag": "https://upl.dev.mobiiworld.com/flags/YT.png"
+            },
+            {
+                "id": 228,
+                "code": "ZA",
+                "dial_code": "27",
+                "name": "SOUTH AFRICA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/ZA.png"
+            },
+            {
+                "id": 229,
+                "code": "ZM",
+                "dial_code": "260",
+                "name": "ZAMBIA",
+                "flag": "https://upl.dev.mobiiworld.com/flags/ZM.png"
+            },
+            {
+                "id": 230,
+                "code": "ZW",
+                "dial_code": "263",
+                "name": "ZIMBABWE",
+                "flag": "https://upl.dev.mobiiworld.com/flags/ZW.png"
+            }
+        ]
+    }
+}
